@@ -78,7 +78,7 @@ PlayStation World is a collection of various content, information and tools for 
 [DLC](https://google.com/404)  
 [Modifications](https://google.com/404)  
 [Software](https://google.com/404)  
-[SDK & Development](https://google.com/404)  
+[SDK & Development](https://consolecrunch.com/threads/ps3-sdk-4-75-and-prodg-v4-70-and-visual-studio-2010-and-2013-professional.30195/#google_vignette)  
 
 ---
 
@@ -89,7 +89,7 @@ PlayStation World is a collection of various content, information and tools for 
 [DLC](https://google.com/404)  
 [Modifications](https://google.com/404)  
 [Software](https://google.com/404)  
-[SDK & Development](https://google.com/404)  
+[SDK & Development](https://github.com/psvsdk/psvsdk)  
 
 ---
 
@@ -100,7 +100,7 @@ PlayStation World is a collection of various content, information and tools for 
 [DLC](https://google.com/404)  
 [Modifications](https://google.com/404)  
 [Software](https://google.com/404)  
-[SDK & Development](https://google.com/404)  
+[SDK & Development](https://github.com/pspdev/pspsdk)  
 
 ---
 
@@ -111,7 +111,7 @@ PlayStation World is a collection of various content, information and tools for 
 [DLC](https://google.com/404)  
 [Modifications](https://google.com/404)  
 [Software](https://google.com/404)  
-[SDK & Development](https://google.com/404)  
+[SDK & Development](https://github.com/ps4dev/ps4sdk)  
 
 ---
 
@@ -122,7 +122,7 @@ PlayStation World is a collection of various content, information and tools for 
 [DLC](https://google.com/404)  
 [Modifications](https://google.com/404)  
 [Software](https://google.com/404)  
-[SDK & Development](https://google.com/404)  
+[SDK & Development](https://github.com/PS5Dev/PS5SDK)  
 
 ---
 
