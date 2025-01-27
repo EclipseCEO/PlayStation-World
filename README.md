@@ -4,7 +4,8 @@ PlayStation World is a collection of various content, information and tools for 
 ---
 
 ### Download The App
-> [!NOTE] Please note that the app is still under development and isn't publicly available yet.
+> [!NOTE]
+> Please note that the app is still under development and isn't publicly available yet.
 
 **Windows**  
 [PlayStationWorld-WebView.bat](https://google.com/404)  
