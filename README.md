@@ -54,7 +54,7 @@ PlayStation World is a collection of various content, information and tools for 
 ---
 
 ### PlayStation®
-[Official Wiki](https://google.com/404)  
+[Official Wiki](https://en.wikipedia.org/wiki/PlayStation_(console))  
 [Console Information](https://google.com/404)  
 [Games](https://google.com/404)  
 [Modifications](https://google.com/404)  
@@ -63,7 +63,7 @@ PlayStation World is a collection of various content, information and tools for 
 ---
 
 ### PlayStation®2
-[Official Wiki](https://google.com/404)  
+[Official Wiki](https://en.wikipedia.org/wiki/PlayStation_2)  
 [Console Information](https://google.com/404)  
 [Games](https://google.com/404)  
 [Modifications](https://google.com/404)  
@@ -72,7 +72,7 @@ PlayStation World is a collection of various content, information and tools for 
 ---
 
 ### PlayStation®3
-[Official Wiki](https://google.com/404)  
+[Official Wiki](https://en.wikipedia.org/wiki/PlayStation_3)  
 [Console Information](https://google.com/404)  
 [Games](https://google.com/404)  
 [DLC](https://google.com/404)  
@@ -83,7 +83,7 @@ PlayStation World is a collection of various content, information and tools for 
 ---
 
 ### PlayStation® Vita
-[Official Wiki](https://google.com/404)  
+[Official Wiki](https://en.wikipedia.org/wiki/PlayStation_Vita)  
 [Console Information](https://google.com/404)  
 [Games](https://google.com/404)  
 [DLC](https://google.com/404)  
@@ -94,7 +94,7 @@ PlayStation World is a collection of various content, information and tools for 
 ---
 
 ### PlayStation® Portable
-[Official Wiki](https://google.com/404)  
+[Official Wiki](https://en.wikipedia.org/wiki/PlayStation_Portable)  
 [Console Information](https://google.com/404)  
 [Games](https://google.com/404)  
 [DLC](https://google.com/404)  
@@ -105,7 +105,7 @@ PlayStation World is a collection of various content, information and tools for 
 ---
 
 ### PlayStation®4
-[Official Wiki](https://google.com/404)  
+[Official Wiki](https://en.wikipedia.org/wiki/PlayStation_4)  
 [Console Information](https://google.com/404)  
 [Games](https://google.com/404)  
 [DLC](https://google.com/404)  
@@ -116,7 +116,7 @@ PlayStation World is a collection of various content, information and tools for 
 ---
 
 ### PlayStation®5
-[Official Wiki](https://google.com/404)  
+[Official Wiki](https://en.wikipedia.org/wiki/PlayStation_5)  
 [Console Information](https://google.com/404)  
 [Games](https://google.com/404)  
 [DLC](https://google.com/404)  
