@@ -54,37 +54,75 @@ PlayStation World is a collection of various content, information and tools for 
 ---
 
 ### PlayStation®
-This section will be updated soon!
+[Official Wiki](https://google.com/404)  
+[Console Information](https://google.com/404)  
+[Games](https://google.com/404)  
+[Modifications](https://google.com/404)  
+[Software](https://google.com/404)  
 
 ---
 
 ### PlayStation®2
-This section will be updated soon!
+[Official Wiki](https://google.com/404)  
+[Console Information](https://google.com/404)  
+[Games](https://google.com/404)  
+[Modifications](https://google.com/404)  
+[Software](https://google.com/404)  
 
 ---
 
 ### PlayStation®3
-This section will be updated soon!
+[Official Wiki](https://google.com/404)  
+[Console Information](https://google.com/404)  
+[Games](https://google.com/404)  
+[DLC](https://google.com/404)  
+[Modifications](https://google.com/404)  
+[Software](https://google.com/404)  
+[SDK & Development](https://google.com/404)  
 
 ---
 
 ### PlayStation® Vita
-This section will be updated soon!
+[Official Wiki](https://google.com/404)  
+[Console Information](https://google.com/404)  
+[Games](https://google.com/404)  
+[DLC](https://google.com/404)  
+[Modifications](https://google.com/404)  
+[Software](https://google.com/404)  
+[SDK & Development](https://google.com/404)  
 
 ---
 
 ### PlayStation® Portable
-This section will be updated soon!
+[Official Wiki](https://google.com/404)  
+[Console Information](https://google.com/404)  
+[Games](https://google.com/404)  
+[DLC](https://google.com/404)  
+[Modifications](https://google.com/404)  
+[Software](https://google.com/404)  
+[SDK & Development](https://google.com/404)  
 
 ---
 
 ### PlayStation®4
-This section will be updated soon!
+[Official Wiki](https://google.com/404)  
+[Console Information](https://google.com/404)  
+[Games](https://google.com/404)  
+[DLC](https://google.com/404)  
+[Modifications](https://google.com/404)  
+[Software](https://google.com/404)  
+[SDK & Development](https://google.com/404)  
 
 ---
 
 ### PlayStation®5
-This section will be updated soon!
+[Official Wiki](https://google.com/404)  
+[Console Information](https://google.com/404)  
+[Games](https://google.com/404)  
+[DLC](https://google.com/404)  
+[Modifications](https://google.com/404)  
+[Software](https://google.com/404)  
+[SDK & Development](https://google.com/404)  
 
 ---
 
@@ -94,8 +132,18 @@ This section will be updated soon!
 ---
 
 ### Contact & Socials
-This section will be updated soon!
+If You have a question or would like to get in contact, You can do so using the info below!  
+
+[Messenger](https://google.com/404)  
+[Instagram](https://google.com/404)  
+[Threads](https://google.com/404)  
+[WhatsApp](https://google.com/404)  
+[Telegram](https://google.com/404)  
+[Discord](https://google.com/404)  
+[Gmail](https://google.com/404)  
+[SMS](https://google.com/404)  
 
 ---
 
 ### Credit
+This section will be updated soon!
